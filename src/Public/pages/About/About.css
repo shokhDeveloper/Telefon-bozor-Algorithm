@@ -1,0 +1,7 @@
+.register{
+    text-decoration: underline;
+    color: blue; 
+    display: block;
+    font-size: 18px;
+    padding-top: 1rem;
+}
